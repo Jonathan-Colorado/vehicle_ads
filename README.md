@@ -1,7 +1,7 @@
 A comparison of various used vehicles and how long it took to sell.
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=640px height=360px src="https://github.com/Jonathan-Colorado/vehicle_ads/blob/main/car-ads.jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">vehicle_ads</h3>
